@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/xcambar/fake_dep#readme",
   "dependencies": {
-    "left-pad": "github:stevemao/left-pad#1b1074b1b3c676e39dd226acec7f100cbed47848"
+    "left-pad": "github:stevemao/left-pad#a311017ee47f983bd68cdad3d367c942d379fcb7"
   }
 }

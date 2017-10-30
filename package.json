@@ -1,0 +1,22 @@
+{
+  "name": "fake_dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcambar/fake_dep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcambar/fake_dep/issues"
+  },
+  "homepage": "https://github.com/xcambar/fake_dep#readme",
+  "dependencies": {
+    "left-pad": "github:stevemao/left-pad#1b1074b1b3c676e39dd226acec7f100cbed47848"
+  }
+}
